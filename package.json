@@ -1,0 +1,37 @@
+{
+  "name": "desafiologin",
+  "version": "1.0.0",
+  "description": "Login y Logout con MongoDB",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helberadrian/desafioLogin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helberadrian/desafioLogin/issues"
+  },
+  "homepage": "https://github.com/helberadrian/desafioLogin#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "connect-flash": "^0.1.1",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.3.3",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.7.5",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "twilio": "^3.77.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

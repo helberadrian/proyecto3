@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "nombre": "Jarra Verde",
+    "descripcion": "Jarra de Plastico",
+    "foto": "http://cdn.shopify.com/s/files/1/0608/8484/4765/products/JARRAVERDE1L.jpg?v=1641425415",
+    "precio": 250,
+    "stock": 15
+},
+{
+    "id": 2,
+    "nombre": "Jarra Azul",
+    "descripcion": "Jarra de Plastico",
+    "foto": "https://thumbs.dreamstime.com/b/jarra-azul-aislada-en-blanco-46081235.jpg",
+    "precio": 250,
+    "stock": 10
+},
+{
+    "id": 3,
+    "nombre": "Tenedor",
+    "descripcion": "Tenedor de Metal",
+    "foto": "https://m.media-amazon.com/images/I/41XbSIXU7fL._AC_.jpg",
+    "precio": 80,
+    "stock": 120
+}
+]
